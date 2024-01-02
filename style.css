@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.background {
+    background-image: url('Images/photo.jpeg') center/cover no-repeat;
+    height: 100vh;
+    width: 20vw;
+    flex: 2;
+}
+
+.signup {
+    height: 100vh;
+    background-color: black;
+    flex: 5
+}
